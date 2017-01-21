@@ -4,6 +4,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0808",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
         "name": "Place d'Italie"
       },
       "geometry": {
@@ -308,7 +311,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Place des Fêtes"
+        "name": "Place des FÃªtes"
       },
       "geometry": {
         "type": "LineString",
@@ -415,7 +418,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Place du Panthéon"
+        "name": "Place du PanthÃ©on"
       },
       "geometry": {
         "type": "LineString",
@@ -502,7 +505,7 @@
       "type": "Feature",
       "properties": {
         "name": "Bourdon",
-        "description": "nouvelle piste réalisée, projet non inscrit au plan vélo"
+        "description": "nouvelle piste rÃ©alisÃ©e, projet non inscrit au plan vÃ©lo"
       },
       "geometry": {
         "type": "LineString",
@@ -724,7 +727,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Avenue de la République"
+        "name": "Avenue de la RÃ©publique"
       },
       "geometry": {
         "type": "LineString",
@@ -1239,7 +1242,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Boulevard Barbès"
+        "name": "Boulevard BarbÃ¨s"
       },
       "geometry": {
         "type": "LineString",
@@ -1258,7 +1261,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Boulevard de l'Hôpital sud"
+        "name": "Boulevard de l'HÃ´pital sud"
       },
       "geometry": {
         "type": "LineString",
@@ -1531,7 +1534,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Étoile - Chaillot"
+        "name": "Ãtoile - Chaillot"
       },
       "geometry": {
         "type": "LineString",
@@ -1748,7 +1751,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Quai Louis Blériot"
+        "name": "Quai Louis BlÃ©riot"
       },
       "geometry": {
         "type": "LineString",
@@ -1960,7 +1963,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Route de la Muette à Neuilly"
+        "name": "Route de la Muette Ã  Neuilly"
       },
       "geometry": {
         "type": "LineString",
@@ -2220,7 +2223,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Route du Champ de Manœuvre"
+        "name": "Route du Champ de ManÅuvre"
       },
       "geometry": {
         "type": "LineString",
@@ -2575,7 +2578,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rue de Châteaudun"
+        "name": "Rue de ChÃ¢teaudun"
       },
       "geometry": {
         "type": "LineString",
@@ -2613,7 +2616,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rue de Réaumur"
+        "name": "Rue de RÃ©aumur"
       },
       "geometry": {
         "type": "LineString",
@@ -3013,7 +3016,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ternes - Étoile"
+        "name": "Ternes - Ãtoile"
       },
       "geometry": {
         "type": "LineString",
@@ -3054,7 +3057,7 @@
       "type": "Feature",
       "properties": {
         "name": "av de la porte d'Ivry",
-        "description": "aménagement pas satisfaisant, piste qui s'interrompt brutalement juste avant l'arrivée sur les Maréchaux"
+        "description": "amÃ©nagement pas satisfaisant, piste qui s'interrompt brutalement juste avant l'arrivÃ©e sur les MarÃ©chaux"
       },
       "geometry": {
         "type": "LineString",
@@ -3074,7 +3077,7 @@
       "type": "Feature",
       "properties": {
         "name": "Magenta",
-        "description": "piste retravaillé, mais toujours insatisfaisante"
+        "description": "piste retravaillÃ©, mais toujours insatisfaisante"
       },
       "geometry": {
         "type": "LineString",
@@ -3150,7 +3153,7 @@
       "type": "Feature",
       "properties": {
         "name": "place d'Italie",
-        "description": "piste existante améliorée (devant Italie 2)"
+        "description": "piste existante amÃ©liorÃ©e (devant Italie 2)"
       },
       "geometry": {
         "type": "LineString",
@@ -3170,7 +3173,7 @@
       "type": "Feature",
       "properties": {
         "name": "Tour Maubourg",
-        "description": "sens nord-sud: couloir de bus élargi et ouvert aux vélos"
+        "description": "sens nord-sud: couloir de bus Ã©largi et ouvert aux vÃ©los"
       },
       "geometry": {
         "type": "LineString",
@@ -3688,7 +3691,7 @@
       "type": "Feature",
       "properties": {
         "name": "Bourdon -  Porte de Bercy",
-        "description": "pas sûr du lieu de pasage sur les Quais de la Râpée - de Bercy"
+        "description": "pas sÃ»r du lieu de pasage sur les Quais de la RÃ¢pÃ©e - de Bercy"
       },
       "geometry": {
         "type": "LineString",
@@ -3907,7 +3910,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Châtelet - Aubervilliers"
+        "name": "ChÃ¢telet - Aubervilliers"
       },
       "geometry": {
         "type": "LineString",
@@ -4026,7 +4029,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Châtelet - Porte d'Orléans",
+        "name": "ChÃ¢telet - Porte d'OrlÃ©ans",
         "_storage_options": {
           "opacity": "1"
         }
